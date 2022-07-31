@@ -1,0 +1,30 @@
+body {
+    padding: 3% 25% 7% 25%;
+    text-align: center;
+    /* margin: auto; */
+    font-family: 'Courier New', Courier, monospace;
+    background-color: tomato;
+    color: beige;
+    
+}
+
+a {
+    color: beige;
+}
+
+ul {
+    list-style-type: none;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+h3 {
+    color: ivory;
+}
+
+img {
+    border-radius: 100%;
+    width: 500px;
+}
